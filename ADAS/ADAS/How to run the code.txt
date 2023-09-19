@@ -1,0 +1,7 @@
+open cmd at the path of the folder
+
+## this conda line is just for ashf and nabaa
+conda activate aad
+
+
+python -m ADAS --adas
